@@ -32,7 +32,7 @@ The OpenBook E-Reader is designed with a focus on simplicity, sustainability, an
 | 1 | 68uH | 744043680IND_4828-WE-TPC_WRE |  | L1 | https://www.digikey.de/en/products/detail/w%C3%BCrth-elektronik/744043680/1638515?srsltid=AfmBOoreM6iTR1zfidcAYx5855uFKN_t-1dK5Y4hJLHk64FUsesZV3qH | https://www.we-online.com/components/products/datasheet/744043680.pdf |
 | 1 | BD5229G-TR | BD5229G-TR |  | U6 | https://www.digikey.com/en/products/detail/rohm-semiconductor/BD5229G-TR/658502 | https://www.rohm.com/datasheet?p=BD5229G&dist=Digi-key&media=referral&source=digi-key.com&campaign=Digi-key |
 | 1 | BME688 | ESP32_WROVER_BME680_BME680 |  | U8 | https://www.digikey.ro/en/products/detail/bosch-sensortec/BME688/13681261 | https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme688-ds000.pdf |
-| 3 | BUTTON_CUSYOMV1 | BUTTON_CUSYOMV1 |  | BOOT_BUTTON, CHANGE_BUTTON, RESET_BUTTON |  |  |
+| 3 | BUTTON_CUSTOMV1 | BUTTON_CUSTOMV1 |  | BOOT_BUTTON, CHANGE_BUTTON, RESET_BUTTON |  |  |
 | 1 | CPH3225A | CPH3225A |  | C_SUPERCAP | https://www.digikey.com/en/products/detail/seiko-instruments/CPH3225A/8692444 | https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6537/rev05-CPHCPM.pdf |
 | 1 | DS3231SN# | DS3231SN# |  | U3 | https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/DS3231SN/1197576 | https://www.analog.com/media/en/technical-documentation/data-sheets/DS3231.pdf |
 | 1 | ESP32-C6-WROOM-1-N8 | ESP32-C6-WROOM-1-N8 |  | U1 | https://www.digikey.com/en/products/detail/espressif-systems/ESP32-C6-WROOM-1-N8/17728866 | https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_wroom-1u_datasheet_en.pdf |
@@ -49,6 +49,9 @@ The OpenBook E-Reader is designed with a focus on simplicity, sustainability, an
 | 1 | USBLC6-2SC6Y | USBLC6-2SC6Y |  | D1 | https://www.digikey.com/en/products/detail/stmicroelectronics/USBLC6-2SC6Y/2819177 | https://www.st.com/content/ccc/resource/technical/document/datasheet/group0/94/15/6c/58/ba/91/46/42/DM00055262/files/DM00055262.pdf/jcr:content/translations/en.DM00055262.pdf |
 | 1 | W25Q512JVEIQ | W25Q512JVEIQ |  | U4 | https://www.digikey.com/en/products/detail/winbond-electronics/W25Q512JVEIQ/10244706 | https://www.winbond.com/resource-files/W25Q512JV%20SPI%20RevB%2006252019%20KMS.pdf |
 | 1 | XC6220A331MR-G | XC6220A331MR-G |  | U5 | https://www.digikey.in/en/products/detail/torex-semiconductor-ltd/XC6220A331MR-G/10165775 | https://product.torexsemi.com/system/files/series/xc6220.pdf |
+| 1 | | CELLEVIA BATTERIES LP584174 | | https://www.tme.eu/en/details/accu-lp584174_cl/rechargeable-batteries/cellevia-batteries/l584174/ | https://www.tme.eu/Document/e0683d8c34e6d878124489f71bffb6ee/cel0014.pdf
+| 1 | | Waveshare 7.5inch e-Paper V2 | | https://www.waveshare.com/7.5inch-e-paper-hat.htm | https://files.waveshare.com/upload/6/60/7.5inch_e-Paper_V2_Specification.pdf
+| 1 | | Casing | | | |
 
 ## Core Hardware Components
 
